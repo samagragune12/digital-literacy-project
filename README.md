@@ -40,7 +40,7 @@ Researched UPI payment fraud and wrote a case study based on the OLX Army office
 |---|---|
 | GitHub | [github.com/samagragune](https://github.com/samagragune12) |
 | LinkedIn | [linkedin.com/in/samagragune](https://linkedin.com/in/samagragune) |
-| Stack Overflow | [stackoverflow.com/users/samagragune](https://stackoverflow.com/users/samagragune) |
+| Stack Overflow | [stackoverflow.com/users/samagragune](https://stackoverflow.com/users/32564287/samagra-gune) |
 | CodeChef | [codechef.com/users/samagragune](https://www.codechef.com/users/samagragune) |
 | Digital Literacy Quiz (Google Form) | [Take the Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeLbhT60QXkKtIdfBQkSUcigYjKabeXISDjrhLXPdSV14H4_w/viewform?usp=publish-editor) |
 
