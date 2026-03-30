@@ -1,9 +1,8 @@
 STAY SAFE ONLINE — PREVENTION CHECKLIST
 Samagra Gune | 25BCE10462 | Task 5 — Cybercrime Awareness
-==========================================================
 
 GENERAL ONLINE SAFETY
-----------------------
+
 1. Never share your OTP, UPI PIN, CVV, or password with anyone — not even someone
    claiming to be from your bank, a company, or the government.
 
@@ -25,7 +24,7 @@ GENERAL ONLINE SAFETY
    and daily routine can be used against you by scammers.
 
 UPI AND FINANCIAL SAFETY (IMPORTANT)
---------------------------------------
+
 7. Remember this clearly: you do NOT need to enter your UPI PIN to RECEIVE money.
    If someone asks you to enter your PIN to accept a payment, it is a scam.
    A collect/pay request takes money OUT of your account.
@@ -35,7 +34,7 @@ UPI AND FINANCIAL SAFETY (IMPORTANT)
    legitimate ones at shops and stalls.
 
 DEVICE AND ACCOUNT SAFETY
----------------------------
+
 9. Do not use public Wi-Fi (at cafes, airports, or malls) to log in to your bank
    or make UPI payments. Use your mobile data instead.
 
@@ -43,7 +42,7 @@ DEVICE AND ACCOUNT SAFETY
     Do not save passwords on browsers that others can access.
 
 IF SOMETHING GOES WRONG
-------------------------
+
 Report any cybercrime immediately at:
 
    National Cyber Crime Reporting Portal: https://cybercrime.gov.in
