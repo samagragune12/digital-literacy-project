@@ -1,0 +1,57 @@
+STAY SAFE ONLINE — PREVENTION CHECKLIST
+Samagra Gune | 25BCE10462 | Task 5 — Cybercrime Awareness
+==========================================================
+
+GENERAL ONLINE SAFETY
+----------------------
+1. Never share your OTP, UPI PIN, CVV, or password with anyone — not even someone
+   claiming to be from your bank, a company, or the government.
+
+2. Always check the sender's email address carefully before clicking any link.
+   Phishing emails often use addresses like support@paytm-helpdesk.net instead
+   of official domains.
+
+3. Do not click on links sent via SMS or WhatsApp from unknown numbers, even if
+   they look like they are from a bank or government portal.
+
+4. Use a different password for each important account (email, banking, college
+   portal). A password manager can help you keep track of them.
+
+5. Enable two-factor authentication (2FA) on your email, social media, and any
+   platform that supports it. This adds a second layer of protection even if
+   your password is stolen.
+
+6. Be careful about what you post publicly. Your college name, hostel address,
+   and daily routine can be used against you by scammers.
+
+UPI AND FINANCIAL SAFETY (IMPORTANT)
+--------------------------------------
+7. Remember this clearly: you do NOT need to enter your UPI PIN to RECEIVE money.
+   If someone asks you to enter your PIN to accept a payment, it is a scam.
+   A collect/pay request takes money OUT of your account.
+
+8. Before scanning any QR code for a payment, verify the merchant name shown
+   on your UPI app before confirming. Fraudsters place fake QR codes over
+   legitimate ones at shops and stalls.
+
+DEVICE AND ACCOUNT SAFETY
+---------------------------
+9. Do not use public Wi-Fi (at cafes, airports, or malls) to log in to your bank
+   or make UPI payments. Use your mobile data instead.
+
+10. Log out of your accounts on shared or college lab computers after every session.
+    Do not save passwords on browsers that others can access.
+
+IF SOMETHING GOES WRONG
+------------------------
+Report any cybercrime immediately at:
+
+   National Cyber Crime Reporting Portal: https://cybercrime.gov.in
+   Cyber Crime Helpline: 1930 (available across India, 24x7)
+
+The faster you report, the higher the chance of recovering lost money or
+stopping further damage. Do not wait or feel embarrassed — these crimes
+happen to careful people too.
+
+==========================================================
+Be Smart. Be Safe. Report Early.
